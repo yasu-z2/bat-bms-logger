@@ -17,8 +17,8 @@ BATTERIES = [
     {"name": "SOLAR2", "address": ""},
 ]
 
-# 保存先の Google ドライブ フォルダー ID
-GDRIVE_FOLDER_ID = "1Ztlq-xpDLKJ8BbGwQQuOnnG6r81KN7PU"
+# Googleドライブの保存先フォルダーID（各自の環境に合わせて変更してください）
+GDRIVE_FOLDER_ID = "YOUR_GDRIVE_FOLDER_ID_HERE"
 
 # 認証キーJSONファイルの絶対パスを取得（スクリプトと同階層）
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
