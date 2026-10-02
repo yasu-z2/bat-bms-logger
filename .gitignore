@@ -1,0 +1,22 @@
+# 機密情報（絶対リポジトリに含めない）
+service_account.json
+MACaddress.txt
+
+# Python キャッシュ・一時ファイル
+__pycache__/
+*.pyc
+
+# PyInstaller の生成ファイル
+build/
+dist/
+*.spec
+
+# ローカルで出力されたCSVデータ
+battery_data_latest.csv
+
+# 仮想環境（使用している場合）
+venv/
+.venv/
+
+# 実行ファイル
+*.exe
