@@ -7,7 +7,7 @@ from bleak import BleakClient
 # 設定項目
 # ==========================================
 # ご自身のMACアドレスを指定してください
-BMS_ADDRESS = "A5:C2:37:51:C4:24"
+BMS_ADDRESS = ""
 
 # 調査結果に基づく正しいUUID設定
 NOTIFY_UUID = "0000ff01-0000-1000-8000-00805f9b34fb"  # 受用窓口

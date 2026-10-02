@@ -2,7 +2,7 @@ import asyncio
 from bleak import BleakClient
 
 # MACアドレスを指定
-BMS_ADDRESS = "A5:C2:37:51:C4:24"  # ご自身のMACアドレスに書き換えてください
+BMS_ADDRESS = ""  # ご自身のMACアドレスに書き換えてください
 
 
 async def explore_services():

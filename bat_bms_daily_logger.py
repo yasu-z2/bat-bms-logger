@@ -13,8 +13,8 @@ from googleapiclient.http import MediaFileUpload
 # ==========================================
 # モニタリング対象バッテリー情報
 BATTERIES = [
-    {"name": "SOLAR1", "address": "A5:C2:37:51:C4:24"},
-    {"name": "SOLAR2", "address": "A5:C2:37:51:C3:5C"},
+    {"name": "SOLAR1", "address": ""},
+    {"name": "SOLAR2", "address": ""},
 ]
 
 # 保存先の Google ドライブ フォルダー ID
