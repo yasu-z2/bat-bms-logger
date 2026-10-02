@@ -17,8 +17,8 @@ BMS_TARGETS = {
     "SOLAR2": "A4:C1:38:YY:YY:YY"   # ※ご環境のMACアドレスに合わせてください
 }
 
-# Googleドライブの保存先フォルダーID
-GDRIVE_FOLDER_ID = "1Ztlq-xpDLKJ8BbGwQQuOnnG6r81KN7PU"
+# Googleドライブの保存先フォルダーID（各自の環境に合わせて変更してください）
+GDRIVE_FOLDER_ID = "YOUR_GDRIVE_FOLDER_ID_HERE"
 
 # 保存・転送するCSVファイル名
 LOCAL_CSV_FILENAME = "battery_data_latest.csv"
